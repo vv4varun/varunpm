@@ -190,7 +190,7 @@ const Contact = () => {
                 <h3 className="text-lg font-serif font-semibold mb-6">Connect with Me</h3>
                 <div className="flex gap-4">
                   <a
-                    href="https://linkedin.com"
+                    href="https://in.linkedin.com/in/varun-verma-252aa856"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 bg-secondary/50 rounded-xl flex items-center justify-center text-muted-foreground hover:bg-primary/10 hover:text-primary transition-all duration-300"
