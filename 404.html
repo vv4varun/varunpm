@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <script>
+      var pathname = window.location.pathname;
+      var redirect = "/varunpm/" + pathname.replace("/varunpm/", "");
+      window.location.replace("/varunpm/?redirect=" + redirect);
+    </script>
+  </head>
+  <body></body>
+</html>
